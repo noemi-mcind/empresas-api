@@ -1,0 +1,7 @@
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.csprojAssemblyReference.cache
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.AssemblyInfoInputs.cache
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.AssemblyInfo.cs
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.csproj.CoreCompileInputs.cache
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Noemi\Documents\empresasAPi\obj\Debug\net5.0\empresasAPi.MvcApplicationPartsAssemblyInfo.cache
